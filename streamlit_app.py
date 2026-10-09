@@ -6,4 +6,4 @@ st.write(
 )
 st.write("最初の第一歩")
 st.print("test")
-print("Test")
+st.print("Test")
